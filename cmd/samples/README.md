@@ -45,7 +45,7 @@ Start workflow every minute using cron.
 ```
 
 #### expense
-See more details in https://github.com/uber-common/cadence-samples/blob/master/cmd/samples/expense/README.md
+See more details in https://github.com/zokypesch/cadence-samples/blob/master/cmd/samples/expense/README.md
 
 #### fileprocessing
 ```

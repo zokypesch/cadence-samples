@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/mock"
-	"github.com/uber-common/cadence-samples/cmd/samples/common"
+	"github.com/zokypesch/cadence-samples/cmd/samples/common"
 	"go.uber.org/cadence"
 	"go.uber.org/cadence/activity"
 	"go.uber.org/cadence/client"

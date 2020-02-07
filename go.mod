@@ -1,4 +1,4 @@
-module github.com/uber-common/cadence-samples
+module github.com/zokypesch/cadence-samples
 
 go 1.12
 
